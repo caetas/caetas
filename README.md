@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @caetas
 - 👀 I’m interested in Computer Vision and Generative Modelling
-- 📫 To reach me, you can contact me via f.t.de.espirito.santo.e.caetano@tue.nl
+- 📫 To reach me, you can contact me via f.caetano@tue.nl
 
 <!---
 tiagoespsanto/tiagoespsanto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
